@@ -73,10 +73,7 @@
     </pluginManagement>
     </build>
     <distributionManagement>
-      <repository>
-        <url>maven.repo.remote=https://my.server.com/maven,http://www.ibiblio.org/maven</url>
-      </repository>
-      <repository>
+     <repository>
         <id>github</id>
         <name>GitHub Packages</name>
         <url>https://maven.pkg.github.com/supplychain/welcome</url>
